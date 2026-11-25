@@ -1,6 +1,6 @@
 # Table for Two
 
-Shared weekly meal plan for Jevon and Jaiden. Week 3 (Mon 9 – Sun 15 Nov 2026): Daryl's macros, prepped meals, a small bank Mon–Thu for Friday and Saturday, and fibre, fullness and water as the week's focus.
+Shared weekly meal plan for Jevon and Jaiden. Week 4 (Mon 23 – Sun 29 Nov 2026): Daryl's macros, simple repeat meals, gym Mon/Tue/Thu/Sat, and a weekday calorie bank to fund Wednesday steak night and the weekend.
 
 - `index.html` is the dashboard (single page, no build step). Open it in a browser.
 - `recipes.json` is the recipe database (203 recipes), the same data embedded in `index.html`.
